@@ -3,12 +3,6 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "KstWshIOJtnwrMwvhSz/78YUBQk=",
-			"path": "github.com/ggilmore/srclib-json-tokenizer/sgjson",
-			"revision": "ed3fe49b5b3af987e1f652e2e00c54e69efa7f3c",
-			"revisionTime": "2016-06-02T22:56:54Z"
-		},
-		{
 			"checksumSHA1": "iZVulPMFFGC70xeLZJafiKzTn18=",
 			"path": "github.com/gogo/protobuf/proto",
 			"revision": "c18eea6ad611eecf94a9ba38471f59706199409e",
@@ -37,6 +31,16 @@
 			"path": "github.com/rogpeppe/rog-go/parallel",
 			"revision": "f57ad5e24ab7813942c045f86eda1066eb969e98",
 			"revisionTime": "2015-01-10T16:24:53Z"
+		},
+		{
+			"checksumSHA1": "sIR/BqHJcwZBjK+ooDxvoqy1EI0=",
+			"path": "github.com/sourcegraph/srclib-json-tokenizer/sgjson",
+			"revision": "ed3fe49b5b3af987e1f652e2e00c54e69efa7f3c",
+			"revisionTime": "2016-06-02T22:56:54Z"
+		},
+		{
+			"path": "github.com/sourecegraph/srclib-json-tokenizer/sgjson",
+			"revision": ""
 		},
 		{
 			"checksumSHA1": "2bj5Jq3+RmE2blLnFUfkASYGTlg=",
@@ -99,5 +103,5 @@
 			"revisionTime": "2016-01-07T09:09:29Z"
 		}
 	],
-	"rootPath": "github.com/ggilmore/srclib-json"
+	"rootPath": "github.com/sourcegraph/srclib-json"
 }
