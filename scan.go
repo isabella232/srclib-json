@@ -19,8 +19,8 @@ var (
 	parser  = flags.NewNamedParser("srclib-json", flags.Default)
 	scanCmd = ScanCmd{}
 
-	//filePredicates is a list of predicate functions that check to see if we can
-	//recognize / process a given JSON file
+	// filePredicates is a list of predicate functions that check to see if we can
+	// recognize / process a given JSON file
 	filePredicates = []func(s string) bool{}
 )
 

@@ -33,10 +33,10 @@
 			"revisionTime": "2015-01-10T16:24:53Z"
 		},
 		{
-			"checksumSHA1": "sIR/BqHJcwZBjK+ooDxvoqy1EI0=",
+			"checksumSHA1": "QACC9ksSOLI1/zufk++O9bepZF0=",
 			"path": "github.com/sourcegraph/srclib-json-tokenizer/sgjson",
-			"revision": "ed3fe49b5b3af987e1f652e2e00c54e69efa7f3c",
-			"revisionTime": "2016-06-02T22:56:54Z"
+			"revision": "5f4e66c996711374d2e7cba3a9a87fd9d8973718",
+			"revisionTime": "2016-06-03T19:20:30Z"
 		},
 		{
 			"path": "github.com/sourecegraph/srclib-json-tokenizer/sgjson",

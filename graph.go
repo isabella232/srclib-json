@@ -81,8 +81,8 @@ func doGraph(u unit.SourceUnit) (*graph.Output, error) {
 	return out, nil
 }
 
-//TokenizeJSON - given a reader "r" with a JSON object inside it, returns a slice of all
-//non-delimiter TokenInfos in the JSON
+// TokenizeJSON - given a reader "r" with a JSON object inside it, returns a slice of all
+// non-delimiter TokenInfos in the JSON
 func TokenizeJSON(r io.Reader) ([]sgjson.TokenInfo, error) {
 	dec := sgjson.NewDecoder(r)
 	dec.UseNumber()
