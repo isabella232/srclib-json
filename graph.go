@@ -14,7 +14,7 @@ import (
 	"sourcegraph.com/sourcegraph/srclib/graph"
 	"sourcegraph.com/sourcegraph/srclib/unit"
 
-	"github.com/ggilmore/srclib-json-tokenizer/sgjson"
+	"github.com/sourcegraph/srclib-json-tokenizer/sgjson"
 )
 
 func init() {
